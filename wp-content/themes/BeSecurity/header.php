@@ -35,7 +35,7 @@
 		    <div class="collapse navbar-collapse" id="myNavbar">
 		    	<ul class="nav navbar-nav navbar-right">
 		      		<li><a href="<?php echo get_home_url(); ?>">Home</a></li>
-		      		<li><a href="<?php echo get_bloginfo('template_url');?>/?page_id=161/">About us</a></li>
+		      		<li><a href="<?php echo get_home_url(); ?>/?page_id=161/">About us</a></li>
 		      		<li><a href="<?php echo get_home_url(); ?>/?page_id=361/">Offer</a></li>
 		     		 <li><a href="<?php echo get_home_url(); ?>/?page_id=381/">Offer details</a></li>
 		      		<li><a href="<?php echo get_home_url(); ?>/?page_id=171/">Contact</a></li>
