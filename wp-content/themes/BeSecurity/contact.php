@@ -20,7 +20,7 @@ get_header(); ?>
       <textarea rows="4" cols="50" id="message" name="message">
     Enter text here...</textarea>
       <br>
-      <input type="submit" id="send-a-message" value="Send a message">
+      <input type="button" id="send-a-message" value="Send a message">
     </form>
   </div><!-- end form-wrapper -->
   <div class="contact-info">
