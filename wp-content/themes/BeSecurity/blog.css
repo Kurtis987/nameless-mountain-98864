@@ -107,7 +107,7 @@ h2 {
 
 .bg-img {
   background-repeat: no-repeat; 
-  background-image: url("images/home_security2_slider2_bg.jpg"); 
+  background-image: url("images/home_security2_slider2_bg.png"); 
   background-size: cover; 
   background-position: center center; 
   width: 100%; 
@@ -344,7 +344,7 @@ h2 {
 } 
 
 #contact-header-wrapper {
-  background-image: url(images/home_security2_header1.jpg);
+  background-image: url(images/home_security2_header1.png);
   background-attachment: fixed;
   background-size: cover; 
   background-position: center center; 
@@ -439,7 +439,7 @@ form {
   margin-top: 347px;
 }
 #header-wrapper {
-  background-image: url(images/home_security2_header1.jpg);
+  background-image: url(images/home_security2_header1.png);
   background-attachment: fixed;
   background-size: cover; 
   background-position: center center; 
@@ -465,7 +465,7 @@ input {
   margin: 5px;
 }
 .left-column {
-  background-image:url(images/home_security2_troops.jpg);
+  background-image:url(images/home_security2_troops.png);
   background-repeat:no-repeat; 
   background-position:center bottom;
   padding: 340px 28% 70px 5%;
@@ -530,7 +530,7 @@ input {
   color: white;
 }
 #offer-header-wrapper {
-  background-image: url(images/home_security2_header3.jpg);
+  background-image: url(images/home_security2_header3.png);
   background-attachment: fixed;
   background-size: cover; 
   background-position: center center; 
@@ -546,7 +546,7 @@ input {
 }
 
 #offer-details-header-wrapper {
-  background-image: url(images/home_security2_header2.jpg);
+  background-image: url(images/home_security2_header2.png);
   background-attachment: fixed;
   background-size: cover; 
   background-position: center center; 

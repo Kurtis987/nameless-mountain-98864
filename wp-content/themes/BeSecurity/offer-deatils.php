@@ -8,7 +8,7 @@ get_header(); ?>
 	<h1 class="about-title">Video <br>monitoring</h1>
 </div>
 <div class="row camera">
-	<img class="camera-img" src="<?php echo get_bloginfo('template_url');?>/images/home_security2_offerdetails2.jpg" alt="camera">
+	<img class="camera-img" src="<?php echo get_bloginfo('template_url');?>/images/home_security2_offerdetails2.png" alt="camera">
 	<div class="offer-details-right-column">
 		<h2 class="offer-details-title">Proin risus erat, fringilla vel purus sit amet <span style="color: #4982d0;">faucibus est</span></h2>
 		<p class="offer-p">Sed vehicula velit sodales vitae purus sit amet, mattis porta enim. Duis fermentum faucibus est.</p>

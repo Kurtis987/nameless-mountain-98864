@@ -13,10 +13,10 @@ get_header(); ?>
 		<p class="about-margin">Cras massa nibh, tincidunt ut eros a, vulputate consequat odio. Vestibulum vehicula tempor nulla, sed hendrerit urna interdum in. Donec et nibh maximus, congue est eu, mattis nunc. Praesent ut quam quis quam venenatis fringilla. Morbi vestibulum id tellus commodo mattis. Aliquam erat volutpat. Aenean accumsan id mi nec semper.</p>
 		<a class="btn button-black about-margin" href=""><span class="button-label">READ MORE</span><i class="glyphicon glyphicon-chevron-right" style="color:white; padding-left: 5px;"></i></span></a>
 	</div>
-	<div class="about-right-column-1"><img class="about-us-img" src="<?php echo get_bloginfo('template_url');?>/images/home_security2_troops.jpg" alt="troops"></div>
+	<div class="about-right-column-1"><img class="about-us-img" src="<?php echo get_bloginfo('template_url');?>/images/home_security2_troops.png" alt="troops"></div>
 </div>
 <div class="row about-us-wrapper">	
-		<div class="about-left-column-2"><img class="about-us-img" src="<?php echo get_bloginfo('template_url');?>/images/home_security2_about2.jpg" alt="camera"></div>
+		<div class="about-left-column-2"><img class="about-us-img" src="<?php echo get_bloginfo('template_url');?>/images/home_security2_about2.png" alt="camera"></div>
 		<div class="about-right-column-2">	
 				<h2 class="white-title about-margin">
 					Sed ultrices nisl velit, eu ornare est ullamcorper. <span style="color: #4982d0;">

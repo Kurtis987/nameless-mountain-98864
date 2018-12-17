@@ -8,7 +8,7 @@ get_header(); ?>
 	<h1 class="about-title">What can we <br>do for you?</h1>
 </div>
 <div class="row video-monitoring">
-	<img class="offer-left-img" src="<?php echo get_bloginfo('template_url');?>/images/home_security2_offer1.jpg" alt="video monitoriing"> 
+	<img class="offer-left-img" src="<?php echo get_bloginfo('template_url');?>/images/home_security2_offer1.png" alt="video monitoriing"> 
 	<div class="offer-right-column">
 		<h2 class="offer-heading">Video monitoring </h2>
 
@@ -29,11 +29,11 @@ get_header(); ?>
 		</button>
 	</div> <!-- end offer-left-column -->
 	
-	<img class="offer-right-img" src="<?php echo get_bloginfo('template_url');?>/images/home_security2_offer2.jpg" alt="protection of property">
+	<img class="offer-right-img" src="<?php echo get_bloginfo('template_url');?>/images/home_security2_offer2.png" alt="protection of property">
 </div><!-- end row protection -->
 
 <div class="row mass-events">
-	<img class="offer-left-img" src="<?php echo get_bloginfo('template_url');?>/images/home_security2_offer3.jpg" alt="mass events" style="margin-top: 40px;"> 
+	<img class="offer-left-img" src="<?php echo get_bloginfo('template_url');?>/images/home_security2_offer3.png" alt="mass events" style="margin-top: 40px;"> 
 	<div class="offer-right-column" style="margin-top: 40px; padding-top: 0;">
 		<h2 class="offer-heading">Mass events</h2>
 
@@ -55,7 +55,7 @@ get_header(); ?>
 		</button>
 	</div> <!-- end offer-left-column -->
 	
-	<img class="offer-right-img" src="<?php echo get_bloginfo('template_url');?>/images/home_security2_offer4.jpg" alt="protection of property">
+	<img class="offer-right-img" src="<?php echo get_bloginfo('template_url');?>/images/home_security2_offer4.png" alt="protection of property">
 </div><!-- end row alarm-systems -->
 
   <div class="row contact">
