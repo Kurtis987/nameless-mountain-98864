@@ -109,6 +109,9 @@ h2 {
   background-repeat: no-repeat; 
   background-image: url("images/home_security2_slider2_bg.png"); 
   background-size: cover; 
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size:cover;
   background-position: center center; 
   width: 100%; 
   height: 100%;
@@ -346,7 +349,10 @@ h2 {
 #contact-header-wrapper {
   background-image: url(images/home_security2_header1.png);
   background-attachment: fixed;
-  background-size: cover; 
+  background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size:cover; 
   background-position: center center; 
   width: 100%; 
   height: 40%;
@@ -441,7 +447,10 @@ form {
 #header-wrapper {
   background-image: url(images/home_security2_header1.png);
   background-attachment: fixed;
-  background-size: cover; 
+  background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size:cover; 
   background-position: center center; 
   width: 100%; 
   height: 40%;
@@ -533,6 +542,9 @@ input {
   background-image: url(images/home_security2_header3.png);
   background-attachment: fixed;
   background-size: cover; 
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size:cover;
   background-position: center center; 
   width: 100%; 
   height: 40%;
@@ -549,6 +561,9 @@ input {
   background-image: url(images/home_security2_header2.png);
   background-attachment: fixed;
   background-size: cover; 
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size:cover;
   background-position: center center; 
   width: 100%; 
   height: 40%;
