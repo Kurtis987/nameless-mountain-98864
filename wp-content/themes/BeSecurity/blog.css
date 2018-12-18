@@ -826,6 +826,18 @@ textarea {
     width: 25%;
     background: #191919;
   }
+  #contact-header-wrapper {
+    background-attachment: scroll;
+  }
+  #header-wrapper {
+    background-attachment: scroll;
+  }
+  #offer-header-wrapper {
+    background-attachment: scroll; 
+  }
+  #offer-details-header-wrapper {
+    background-attachment: scroll;
+  }
 }
 @media (min-width: 768px){
   .about-left-column-1{
